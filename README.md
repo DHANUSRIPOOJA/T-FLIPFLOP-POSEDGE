@@ -63,7 +63,7 @@ From the above characteristic table, we can directly write the next state equati
 ![image](https://github.com/user-attachments/assets/a5a44048-6f71-4dd8-8588-5c053a0209c9)
 
 
-**TIMING DIGRAMS FOR FLIP FLOP:**
+**TIMING DIAGRAM FOR FLIP FLOP:**
 
 ![image](https://github.com/user-attachments/assets/3c9c6e26-49f3-497d-bf5a-2db72ff830e3)
 
